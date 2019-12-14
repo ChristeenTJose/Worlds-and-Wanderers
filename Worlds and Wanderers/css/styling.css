@@ -1,0 +1,110 @@
+body,html
+{
+	background-color: #b30000;
+}
+header
+{
+	background-color: white;
+	padding-bottom: 20px;
+	top:0;
+	width: 100%;
+	margin:0px;
+	left:0;
+}
+nav
+{
+	background-color:rgb(220,220,220);
+	color: chocolate;
+	padding:3px;
+	text-align: right;
+	border-style: outset;
+	left:0;
+	width:100%;
+}
+footer
+{
+	background-color: #004d00;
+	padding: 5px;
+	font-size: x-large;
+	text-align: center;
+	color:white;
+	bottom: 0;
+	position: fixed;
+	height:7vh;
+	width:100%;
+	font-family: monospace;
+	left: 0;
+}
+em
+{
+	font-family: monospace;
+}
+section
+{
+	border-style: inset;
+	border-color:#ffffff;
+	margin:2vw;
+	padding: 10px;
+	background-color: #e6f2ff;
+	text-align: center;
+	width:40vw;
+	margin-bottom:12vh;
+}
+option
+{
+	width: 60vw;
+}
+article
+{
+	color: white;
+	text-align: center;
+	font-family: cursive;
+}
+#header
+{
+	margin-left: 25vw;
+	margin-right: 30vw;
+	align-content: center;
+}
+#logo
+{
+	float:left;
+	margin-left: 10px;
+}
+#summary
+{
+	font-size:20px;
+	color:grey;
+}
+#form
+{
+	width:80vw;
+	margin-left: 8vw;
+	margin-right: 10vw;
+}
+#about
+{
+	font-size: xx-large;
+}
+.welcomebuttons
+{
+	width:14vw;
+	border-radius: 30px;
+	background-color: white;
+	font-family: cursive;
+	font-size: 1.25em;
+	padding:8px;
+	padding-bottom: 20px;
+}
+.TRADER
+{
+	margin-top: 4vh;
+}
+.left
+{
+	float:left;
+}
+.right
+{
+	float: right;
+}
